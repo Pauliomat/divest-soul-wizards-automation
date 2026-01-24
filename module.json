@@ -1,9 +1,9 @@
 {
   "id": "divest-soul-wizards-automation",
   "title": "Divest Soul Wizards+ Automation",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "manifest": "https://github.com/Pauliomat/divest-soul-wizards-automation/releases/latest/download/module.json",
-  "download": "https://github.com/Pauliomat/divest-soul-wizards-automation/releases/download/1.0.1/module.zip",
+  "download": "https://github.com/Pauliomat/divest-soul-wizards-automation/releases/download/1.1.0/module.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -57,7 +57,7 @@
   "relationships": {
     "requires": [
       {
-        "id": "pf2e-wizards-plus",
+        "id": "foundry-summons",
         "type": "module",
         "compatibility": {}
       }
@@ -65,11 +65,6 @@
     "recommends": [
       {
         "id": "pf2e-wizards-plus",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "foundry-summons",
         "type": "module",
         "compatibility": {}
       }
